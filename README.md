@@ -21,6 +21,7 @@ outlined for the project.
 
 ### Files used
 * weather_data_report.ipynb
+* temp_data_clean.csv
 
 
 
