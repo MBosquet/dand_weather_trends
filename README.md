@@ -8,7 +8,15 @@ M. Bosquet
 Examining weather trends for Brussels and the world
 
 ### Description
-
+For this project local and global temperature data is analyzed and the temperature
+trends between Brussels and a selection of other cities (Berlin, Brussels, New York,
+Tokyo and Wellington) are compared. The goal is to create visualizations and a short
+write up describing the similarities and differences between global temperature
+trends and the selected cities. <br>
+<br>
+This short report, in form of a jupyter notebook, provides an overview of the
+steps taken to prepare the retrieved data to be visualized and observed, as
+outlined for the project.
 
 
 ### Files used
